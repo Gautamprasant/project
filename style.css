@@ -114,6 +114,16 @@ font-size: 30px;
     background-image: url("firstpart.jpg");
     height: 600px;
     background-size: cover;
-
-
+}
+/**shop-section**/
+.shop-section{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: rgba(201, 15, 15, 0.753);
+}
+.box{
+    height: 400px;
+    border: 2px solid black;
+    width: 23%;
+    background-color: white;
 }
